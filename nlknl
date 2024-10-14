@@ -1,0 +1,8 @@
+graph TD
+  A(Societal Goals (e.g., Success, Wealth)) --> B(Legitimate Means (e.g., Education, Employment))
+  B --> C(Strain/Aspiration Gap)
+  C -->|Conformity| D1(Conformity)
+  C -->|Innovation| D2(Innovation)
+  C -->|Ritualism| D3(Ritualism)
+  C -->|Retreatism| D4(Retreatism)
+  C -->|Rebellion| D5(Rebellion)
